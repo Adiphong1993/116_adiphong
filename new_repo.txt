@@ -1,4 +1,8 @@
 <?
-echo "Hello today is Mondey" "I am will be solve the problem"
+
+echo "Hello today is Mondey I am will be solve the problem"
+
+
+
 
 ?>
